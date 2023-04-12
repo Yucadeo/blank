@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "",
+    "children" : [ {
+      "name" : "BasicTestTemplatesClassTest",
+      "uid" : "98516e1d553459b4",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1593772796227,
+        "stop" : 1593772796231,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "HeaderClassTest",
+      "uid" : "8ca7f892d168e715",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1593772796452,
+        "stop" : 1593772796453,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "MainClassTest",
+      "uid" : "2ff96e65cdaefa83",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1593772796462,
+        "stop" : 1593772796462,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "be5e18e41bf32fca5cace70290d883bb"
+  } ]
+}

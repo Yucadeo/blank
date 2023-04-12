@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "aaw",
+    "children" : [ {
+      "name" : "15884@aaw.main(1)",
+      "children" : [ {
+        "name" : "Хедер",
+        "uid" : "8ca7f892d168e715",
+        "parentUid" : "5162c03163e2161eac90f51299710da9",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1593772796452,
+          "stop" : 1593772796453,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Главная",
+        "uid" : "2ff96e65cdaefa83",
+        "parentUid" : "5162c03163e2161eac90f51299710da9",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1593772796462,
+          "stop" : 1593772796462,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Основные события для тест-сценариев",
+        "uid" : "98516e1d553459b4",
+        "parentUid" : "5162c03163e2161eac90f51299710da9",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1593772796227,
+          "stop" : 1593772796231,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5162c03163e2161eac90f51299710da9"
+    } ],
+    "uid" : "5b93d62e9d69c8bcbd5df9abd2588815"
+  } ]
+}

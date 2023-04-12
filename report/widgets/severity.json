@@ -1,0 +1,31 @@
+[ {
+  "uid" : "8ca7f892d168e715",
+  "name" : "Хедер",
+  "time" : {
+    "start" : 1593772796452,
+    "stop" : 1593772796453,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2ff96e65cdaefa83",
+  "name" : "Главная",
+  "time" : {
+    "start" : 1593772796462,
+    "stop" : 1593772796462,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "98516e1d553459b4",
+  "name" : "Основные события для тест-сценариев",
+  "time" : {
+    "start" : 1593772796227,
+    "stop" : 1593772796231,
+    "duration" : 4
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]
